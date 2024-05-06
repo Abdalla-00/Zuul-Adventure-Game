@@ -13,8 +13,8 @@
  *
  * If the command had only one word, then the second word is null.
  * 
- * @author Abdalla Omar - student id: 101261926
- * @version Assignment 2
+ * @author Abdalla Omar 
+ * @version Januray 25, 2024
  */
 
 public class Command {

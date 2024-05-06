@@ -9,8 +9,8 @@
  * that are found in different rooms.Each room has its own unique items
  * that speak of the environment.
  * 
- * @author Abdalla Omar - student id: 101261926
- * @version Assignment 2
+ * @author Abdalla Omar 
+ * @version Januray 25, 2024
  */
 
 public class Item {

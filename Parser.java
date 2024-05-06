@@ -14,8 +14,8 @@ import java.util.StringTokenizer;
  * the known commands, and if the input is not one of the known commands, it
  * returns a command object that is marked as an unknown command.
  * 
- * @author Abdalla Omar - student id: 101261926
- * @version Assignment 2
+ * @author Abdalla Omar 
+ * @version Januray 25, 2024
  */
 public class Parser {
     private CommandWords commands; // holds all valid command words

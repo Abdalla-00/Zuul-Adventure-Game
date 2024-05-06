@@ -9,8 +9,8 @@ import java.util.Random;
  * A "Room" resposible for transporting you into any other room, once you try to
  * leave it,not a specific exit, rather can have exit to all rooms.
  * 
- * @author Abdalla Omar - student id: 101261926
- * @version Assignment 2
+ * @author Abdalla Omar 
+ * @version Januray 25, 2024
  * @see Room
  */
 public class TransporterRoom extends Room {
